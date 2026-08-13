@@ -63,49 +63,6 @@ The system continuously monitors vehicle conditions, identifies abnormal events 
 - Serial communication
 - Data logging
 
-## Project Structure
-
-```text
-Vehicle-Black-Box/
-|
-├── src/
-│   └── blackbox.ino
-|
-├── data/
-│   └── sample_data/
-|
-├── docs/
-│   └── project_documentation.pdf
-|
-├── images/
-│   └── project_images/
-|
-└── README.md
-```
-
-## Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/vehicle-black-box.git
-```
-
-### 2. Open the Project
-
-Open the project in Arduino IDE.
-
-### 3. Configure the Project
-
-Configure the required communication and IoT parameters in the source code.
-
-### 4. Upload the Firmware
-
-Select the appropriate ESP32 board and COM port in Arduino IDE, then upload the firmware.
-
-### 5. Monitor the System
-
-Open the Serial Monitor to observe system status, recorded events, and communication data.
 
 ## Applications
 
