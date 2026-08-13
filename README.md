@@ -136,4 +136,4 @@ Open the Serial Monitor to observe system status, recorded events, and communica
 
 ## License
 
-This project is intended for educational and research purposes.
+All Rights Reserved — see LICENSE for details.
